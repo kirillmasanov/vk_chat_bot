@@ -2,9 +2,11 @@ certifi==2019.11.28
 chardet==3.0.4
 coverage==5.0.4
 idna==2.9
+Pillow==7.0.0
 pony==0.7.13
 psycopg2==2.8.4
 requests==2.23.0
 six==1.14.0
 urllib3==1.25.8
 vk-api==11.8.0
+
